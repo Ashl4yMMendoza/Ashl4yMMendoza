@@ -35,23 +35,3 @@ Here are some ideas to get you started:
 
 <br>
 
-
-<br>
-
-<!-- EVERYTHING ELSE CENTERED BELOW -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashl4yMMendoza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashl4yMMendoza&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-
-<br>
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashl4yMMendoza/Ashl4yMMendoza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashl4yMMendoza/Ashl4yMMendoza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ashl4yMMendoza/Ashl4yMMendoza/output/pacman-contribution-graph.svg">
-</picture>
-</div>
